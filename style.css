@@ -1,0 +1,199 @@
+.d-block {
+    display: block !important;
+}
+.pb-3, .py-3 {
+    padding-bottom: 1rem !important;
+}
+.navbar {
+    position: relative;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    padding: .5rem 1rem;
+}
+.fixed-top {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+}
+svg {
+    overflow: hidden;
+    vertical-align: middle;
+}
+
+svg[Attributes Style] {
+    height: 36;
+    width: 126;
+}
+
+a {
+    color: #0052cc;
+}
+
+.container{
+    width: 1350px;
+    background-color: rgb(195, 195, 238);
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+header{
+    padding: 0px 0px;
+    background-color: rgb(195, 195, 238);
+}
+.header_nav{
+    margin-top: 0px;
+    margin-left: 1050px;
+    margin-right: 2px;
+    display: inline-block;
+}
+.login{
+    margin-right: 10px;
+    color: rgb(82, 82, 241);
+    text-decoration: none;
+    font-weight: 200;
+    font-size: 20px;
+}
+.signup{
+    text-decoration: none;
+    font-weight: 200;
+    font-size: 20px;
+    padding: 5px 5px;
+    border-radius: 5px;
+    color: white;
+    background-color: blue;
+}
+.one{
+    background-color:rgb(207, 207, 243) ;
+}
+.one1{
+    width: 40%;
+    margin-left: 100px;
+}
+.one1 h1{
+    font-size: 45px;
+    font-weight: 400;
+}
+.one2 img{
+    padding: auto;
+    margin-top: 80px;
+    margin: auto;
+}
+.em{
+    padding: 6px 12px;
+    border-radius: 5px;
+    border: 1px;
+}
+
+.para1{
+    margin-left: 250px;
+    margin-right: 250px;
+    font-size: 20px;
+text-align: center;
+}
+.btn{
+    border: 1px;
+    border-radius: 5px;
+    padding: 6px 24px;
+    color: white;
+    background-color: blue;
+    vertical-align: middle;
+    display: inline-block;
+}
+.btn-outline-primary {
+    color: #0065ff;
+    background-color: transparent;
+    background-image: none;
+    border-color: #0065ff;
+    vertical-align: middle;
+}
+.sec2{
+    text-align: center;
+}
+.im{
+    vertical-align: middle;
+    margin-top: 20px;
+    margin: auto;
+}
+.two1{
+    width:30%;
+    margin: auto;
+    margin-right: 45px;
+}
+.two2{
+    width:30%;
+    margin: auto;
+    margin-left: 45px;
+}
+.img2{
+margin-left: 50px;
+}
+.three1{
+    width:30%;
+    margin: auto;
+    margin-right: 5px;
+}
+.three2{
+    width:30%;
+    margin: auto;
+    margin-left: 5px;
+}
+.container carousel py-5{
+    background-color: #e6fcff;
+}
+customer.container{
+    background-color: rgb(0, 255, 255);
+}
+.cust1{
+    width: 20%;
+}
+.cust2{
+    width: 60%;
+}
+.select-container {
+    display: inline-block;
+    margin: 0 0 1.25rem;
+    position: relative;
+    border-radius: 5px;
+    vertical-align: middle;
+}
+footer div.select-container select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    background-color: rgba(255,255,255,0.5);
+    border: 2px solid #EDEFF0;
+    color: #959DA1;
+    padding: 0.5em;
+    vertical-align: middle;
+}
+.anchors{
+    margin-left: 160px;
+    vertical-align: middle;
+}
+.anchors a{
+    text-decoration: underline;
+    margin-right: 10px;
+    color: #EDEFF0;
+}
+.anchors a:hover{
+    color: black;
+}
+.atlassian-logo-small img{
+    vertical-align: middle;
+}
